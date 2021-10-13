@@ -1,0 +1,54 @@
+.card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 30px;
+  min-height: 50rem;
+  margin-right: 30px;
+
+
+}
+form {
+  max-width: 500px;
+  border-radius: 5px;
+  padding: 20px;
+  margin-left:250px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+  background-color: azure;
+}
+
+.name-field {
+  margin-bottom: 40px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background: transparent;
+  border-radius: 5px;
+}
+
+.render-chat {
+  max-width: 500px;
+  border-radius: 5px;
+  padding: 20px;
+  margin-left:30px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+  background-color: azure;
+}
+
+h3 {
+  color: #2f72da;
+}
+
+span {
+  color: black;
+}
+
+.messageStyle{
+  background: skyblue;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin: 5px;
+  display: inline-block;
+}
